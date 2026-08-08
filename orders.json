@@ -1,0 +1,6 @@
+[
+    {"order_id": 101, "customer": "Ali", "product": "گوشی A55", "price": 25900000, "quantity": 2},
+    {"order_id": 102, "customer": "Sara", "product": "Redmi Note 13", "price": 14500000, "quantity": 1},
+    {"order_id": 103, "customer": "Mehdi", "product": "iPhone 13", "price": 45000000, "quantity": 1},
+    {"order_id": 104, "customer": "Ali", "product": "Galaxy S24", "price": 62000000, "quantity": 1}
+]
